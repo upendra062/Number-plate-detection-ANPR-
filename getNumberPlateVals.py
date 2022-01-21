@@ -2,7 +2,7 @@ import base64
 import requests
 import json
 import re
-url = 'https://vision.googleapis.com/v1/images:annotate?key=AIzaSyDNT6Cq_5esvtK5WRfbzYxsPlx8h8hYsiw'
+url = 'https://vision.googleapis.com/v1/images:annotate?key=AIzaSyDnBUSdTtkhhHmCbolbH5fR-_m4VA0X0Cc'
 
 # AIzaSyDrfUf8BMPMRcHQzAi1h4MZ56pGPeIeNMs
 
